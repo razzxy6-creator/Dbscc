@@ -7,10 +7,11 @@
   "owner": [],
   "moderator": [],
   "partner": [],
-  "reseller": [],
-  "full_up": [
-    "2069532673",
+  "reseller": [
     "6093221408"
+  ],
+  "full_up": [
+    "2069532673"
   ],
   "usage": {}
 }

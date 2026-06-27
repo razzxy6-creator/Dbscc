@@ -1,6 +1,10 @@
- {
-    "users": [
-      { "id": "", "name": "", "username": "", "joinedAt": "" },
-      
-    ]
-  }
+{
+  "users": [
+    {
+      "id": "",
+      "name": "",
+      "username": "",
+      "joinedAt": ""
+    }
+  ]
+}
